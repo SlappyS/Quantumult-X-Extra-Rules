@@ -1,6 +1,7 @@
 # 播客
 host-keyword, megaphone, proxy
 host-suffix, pdst.fm, proxy
+host-keyword, fm, proxy
 
 # 烦死了NMD
 host-suffix, 91p20.space, proxy
