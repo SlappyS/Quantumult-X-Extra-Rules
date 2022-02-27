@@ -1,9 +1,12 @@
+# Bilibili免流
+host-suffix, bilibili.com, direct
+
 # 播客
 host-keyword, megaphone, proxy
 host-suffix, pdst.fm, proxy
 host-keyword, fm, proxy
 
-# 烦死了NMD
+# 烦死了
 host-suffix, 91p20.space, proxy
 host-keyword, 91porn, proxy
 
