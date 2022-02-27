@@ -1,8 +1,4 @@
-# Bilibili免流
-HOST-SUFFIX, data.bilibili.com,direct
-HOST-SUFFIX, miniapp.bilibili.com,direct
-HOST-SUFFIX, cm.bilibili.com,direct
-HOST-SUFFIX, dataflow.biliapi.com, direct
+# 免流
 HOST-SUFFIX, cmpassport.com, direct
 
 # 播客
