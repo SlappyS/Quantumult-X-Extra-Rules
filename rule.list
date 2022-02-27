@@ -1,6 +1,7 @@
 # Bilibili免流
-host-keyword, bilibili, direct
-host-keyword, biliapi, direct
+HOST-SUFFIX, data.bilibili.com,direct
+HOST-SUFFIX, miniapp.bilibili.com,direct
+HOST-SUFFIX, cm.bilibili.com,direct
 
 # 播客
 HOST-KEYWORD,megaphone,proxy
