@@ -1,5 +1,6 @@
 # Bilibili免流
-HOST-KEYWORD,bilibili.com,direct
+host-keyword, bilibili, direct
+host-keyword, biliapi, direct
 
 # 播客
 HOST-KEYWORD,megaphone,proxy
