@@ -1,14 +1,14 @@
 # Bilibili免流
-host-suffix, data.bilibili.com, direct
+HOST-KEYWORD,bilibili.com,direct
 
 # 播客
-host-keyword, megaphone, proxy
-host-suffix, pdst.fm, proxy
-host-keyword, fm, proxy
+HOST-KEYWORD,megaphone,proxy
+HOST-SUFFIX,pdst.fm,proxy
+HOST-KEYWORD,fm,proxy
 
 # 烦死了
-host-suffix, 91p20.space, proxy
-host-keyword, 91porn, proxy
+HOST-SUFFIX,91p20.space,proxy
+HOST-KEYWORD,91porn,proxy
 
 # 领英
-host-suffix, linkedin.com, proxy
+HOST-SUFFIX,linkedin.com,proxy
