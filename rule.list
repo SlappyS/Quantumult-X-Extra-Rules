@@ -1,5 +1,5 @@
 # Bilibili免流
-host-suffix, bilibili.com, direct
+host-keyword, bilibili, direct
 
 # 播客
 host-keyword, megaphone, proxy
