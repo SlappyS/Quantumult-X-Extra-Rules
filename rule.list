@@ -19,4 +19,4 @@ HOST-SUFFIX,linkedin.com,proxy
 # 原神
 HOST-KEYWORD,hoyoverse, direct
 HOST-KEYWORD,yuanshen, direct
-DOMAIN-SUFFIX,8.211,direct
+HOST-KEYWORD,8.211,direct
