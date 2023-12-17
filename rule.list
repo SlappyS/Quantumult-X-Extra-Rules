@@ -9,9 +9,5 @@ HOST-KEYWORD,megaphone,proxy
 HOST-SUFFIX,pdst.fm,proxy
 HOST-KEYWORD,fm,proxy
 
-# 烦死了
-HOST-SUFFIX,91p20.space,proxy
-HOST-KEYWORD,91porn,proxy
-
 # 领英
 HOST-SUFFIX,linkedin.com,proxy
