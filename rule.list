@@ -11,3 +11,6 @@ HOST-KEYWORD,fm,proxy
 
 # 领英
 HOST-SUFFIX,linkedin.com,proxy
+
+# mooda
+HOST-KEYWORD,mooda, direct
