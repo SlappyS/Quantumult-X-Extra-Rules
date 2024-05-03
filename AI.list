@@ -32,4 +32,5 @@ HOST-KEYWORD, claude, AI
 # Perplexity
 HOST-SUFFIX, perplexity.ai, AI
 HOST-KEYWORD, perplexity, AI
+HOST-KEYWORD, fscdn.eppo, AI
 
