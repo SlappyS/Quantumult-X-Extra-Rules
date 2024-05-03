@@ -5,12 +5,12 @@ HOST-SUFFIX, lbs.map.qq.com, direct
 HOST-SUFFIX, cmpassport.com, direct
 
 # 播客
-HOST-KEYWORD,megaphone,proxy
-HOST-SUFFIX,pdst.fm,proxy
-HOST-KEYWORD,fm,proxy
+HOST-KEYWORD, megaphone, proxy
+HOST-SUFFIX, pdst.fm, proxy
+HOST-KEYWORD, fm, proxy
 
 # 领英
-HOST-SUFFIX,linkedin.com,proxy
+HOST-SUFFIX, linkedin.com, proxy
 
 # mooda
-HOST-KEYWORD,mooda, direct
+HOST-KEYWORD, mooda, direct
