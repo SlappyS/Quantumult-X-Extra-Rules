@@ -14,3 +14,7 @@ HOST-SUFFIX, linkedin.com, proxy
 
 # mooda
 HOST-KEYWORD, mooda, direct
+
+# moomoo
+HOST-SUFFIX, moomoo.com, proxy
+HOST-KEYWORD, moomoo, proxy
