@@ -1,4 +1,5 @@
 # Perplexity
 HOST-SUFFIX, perplexity.ai, AI
+HOST-SUFFIX, pplx.ai, AI
+HOST, pplx-res.cloudinary.com, AI
 HOST-KEYWORD, perplexity, AI
-HOST-KEYWORD, fscdn.eppo, AI
