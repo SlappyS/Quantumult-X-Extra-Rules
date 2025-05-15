@@ -1,6 +1,9 @@
 # 微信相关
 HOST-SUFFIX, lbs.map.qq.com, direct
 
+# UOB
+HOST-SUFFIX, uob.com.sg, direct
+
 # 移动免流白名单
 HOST-SUFFIX, cmpassport.com, direct
 
