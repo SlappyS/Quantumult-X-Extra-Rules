@@ -5,6 +5,7 @@ HOST-SUFFIX, zoomgov.com, direct
 # 字节
 HOST-SUFFIX, ibyteimg.com, direct
 HOST-SUFFIX, larkoffice.com, direct
-HOST-KEYWORD, feishu, direct
 HOST-SUFFIX, tiktok-row.net, direct
 HOST-SUFFIX, byteoversea.com, direct
+HOST-KEYWORD, feishu, direct
+HOST-KEYWORD, tiktok, direct
