@@ -10,6 +10,11 @@ HOST-SUFFIX, tiktok-row.net, direct
 HOST-SUFFIX, bytedance.net, direct
 HOST-SUFFIX, ibytedtos.com, direct
 HOST-SUFFIX, ttwstatic.com, direct
+HOST-SUFFIX, tiktok.com, direct
+HOST-SUFFIX, tiktokv.com, direct
+HOST-SUFFIX, tiktokcdn.com, direct
+HOST-SUFFIX, byteintlstatic.com, direct
+HOST-SUFFIX, byteintlapi.com, direct
 HOST-KEYWORD, feishu, direct
 HOST-KEYWORD, tiktok, direct
 HOST-KEYWORD, aeolus, direct
