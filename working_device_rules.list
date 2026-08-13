@@ -15,6 +15,11 @@ HOST-SUFFIX, tiktokv.com, direct
 HOST-SUFFIX, tiktokcdn.com, direct
 HOST-SUFFIX, byteintlstatic.com, direct
 HOST-SUFFIX, byteintlapi.com, direct
+
+IP-CIDR, 10.0.0.0/8, direct
+IP-CIDR, 30.100.0.0/14, direct
+IP-CIDR, 33.0.0.0/8, direct
+
 HOST-KEYWORD, feishu, direct
 HOST-KEYWORD, tiktok, direct
 HOST-KEYWORD, aeolus, direct
