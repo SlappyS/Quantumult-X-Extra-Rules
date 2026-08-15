@@ -3,3 +3,6 @@ HOST-SUFFIX, uob.com.sg, direct
 
 # mooda
 HOST-KEYWORD, mooda, direct
+
+# 上海医保
+HOST-KEYWORD, ngarihealth.com, direct
