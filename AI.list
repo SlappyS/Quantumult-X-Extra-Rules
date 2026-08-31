@@ -2,6 +2,9 @@
 HOST,cdn.usefathom.com,Claude
 HOST-SUFFIX,anthropic.com,Claude
 HOST-SUFFIX,claude.ai,Claude
+HOST-SUFFIX,claudeusercontent.com,Claude
+HOST-SUFFIX,claude-api.com,Claude
+HOST-SUFFIX,claudecontentmoderation.com,Claude
 
 # OpenAI: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list
 HOST,browser-intake-datadoghq.com,OpenAI
@@ -39,6 +42,8 @@ HOST-KEYWORD,openai,OpenAI
 IP-CIDR,24.199.123.28/32,OpenAI
 IP-CIDR,64.23.132.171/32,OpenAI
 IP-ASN,20473,OpenAI
+HOST-SUFFIX,oaiusercontent.net,OpenAI
+HOST-SUFFIX,sora.com,OpenAI
 
 # Gemini: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/QuantumultX/Gemini/Gemini.list
 HOST,ai.google.dev,Gemini
