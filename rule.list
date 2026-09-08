@@ -6,3 +6,10 @@ HOST-KEYWORD, mooda, direct
 
 # 上海医保
 HOST-SUFFIX, ngarihealth.com, direct
+
+# moomoo补充
+HOST-SUFFIX, moomoobull.com, proxy
+
+# Google Analytics
+HOST-SUFFIX, app-analytics-services.com, proxy
+HOST-SUFFIX, app-analytics-services-att.com, proxy
