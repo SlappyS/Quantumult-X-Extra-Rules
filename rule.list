@@ -10,6 +10,9 @@ HOST-SUFFIX, ngarihealth.com, direct
 # moomoo补充
 HOST-SUFFIX, moomoobull.com, proxy
 
+# 同花顺
+HOST-SUFFIX, 123ths.com, direct
+
 # Google Analytics
 HOST-SUFFIX, app-analytics-services.com, proxy
 HOST-SUFFIX, app-analytics-services-att.com, proxy
