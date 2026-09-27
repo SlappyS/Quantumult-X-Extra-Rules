@@ -13,6 +13,9 @@ HOST-SUFFIX, moomoobull.com, proxy
 # 同花顺
 HOST-SUFFIX, 123ths.com, direct
 
+# Quantumult X 验证
+Host-SUFFIX, quantumult.app, proxy
+
 # Google Analytics
 HOST-SUFFIX, app-analytics-services.com, proxy
 HOST-SUFFIX, app-analytics-services-att.com, proxy
