@@ -39,9 +39,9 @@ HOST-SUFFIX,sentry.io,OpenAI
 HOST-SUFFIX,stripe.com,OpenAI
 HOST-SUFFIX,turn.livekit.cloud,OpenAI
 HOST-KEYWORD,openai,OpenAI
-IP-CIDR,24.199.123.28/32,OpenAI
-IP-CIDR,64.23.132.171/32,OpenAI
-IP-ASN,20473,OpenAI
+IP-CIDR,24.199.123.28/32,OpenAI,no-resolve
+IP-CIDR,64.23.132.171/32,OpenAI,no-resolve
+IP-ASN,20473,OpenAI,no-resolve
 HOST-SUFFIX,oaiusercontent.net,OpenAI
 HOST-SUFFIX,sora.com,OpenAI
 
@@ -59,3 +59,16 @@ HOST-SUFFIX,apis.google.com,Gemini
 HOST-KEYWORD,colab,Gemini
 HOST-KEYWORD,developerprofiles,Gemini
 HOST-KEYWORD,generativelanguage,Gemini
+
+# Ai general rules: https://gist.githubusercontent.com/ddgksf2013/cb4121e8b5c5d865cc949cb8120320c4/raw/Ai.yaml
+HOST-SUFFIX,arkoselabs.com,OpenAI
+HOST-SUFFIX,statsigapi.net,OpenAI
+
+# OpenAI supplemental: https://gist.githubusercontent.com/ddgksf2013/cb4121e8b5c5d865cc949cb8120320c4/raw/Ai.yaml
+HOST-SUFFIX,livekit.cloud,OpenAI
+
+# Perplexity: https://gist.githubusercontent.com/ddgksf2013/cb4121e8b5c5d865cc949cb8120320c4/raw/Ai.yaml
+HOST,pplx-res.cloudinary.com,Perplexity
+HOST-SUFFIX,perplexity.ai,Perplexity
+HOST-SUFFIX,pplx.ai,Perplexity
+HOST-SUFFIX,perplexity.com,Perplexity
