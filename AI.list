@@ -82,3 +82,8 @@ HOST-KEYWORD,claude,Proxy
 HOST-KEYWORD,chatgpt,Proxy
 HOST-KEYWORD,codex,Proxy
 HOST-KEYWORD,sora,Proxy
+
+# Manual Include
+HOST-SUFFIX, datadog.pool.ntp.org, Proxy
+HOST-KEYWORD, datadog, Proxy
+HOST-KEYWORD, datadoghq, Proxy
