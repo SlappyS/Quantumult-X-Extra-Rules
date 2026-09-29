@@ -86,6 +86,7 @@ HOST-KEYWORD,sora,Proxy
 # Manual Include
 HOST-SUFFIX, siftscience.com, Proxy
 HOST-SUFFIX, datadog.pool.ntp.org, Proxy
+HOST-SUFFIX, revenuecat.com, Proxy
 HOST, browser-intake-us5-datadoghq.com, Proxy
 HOST-KEYWORD, datadog, Proxy
 HOST-KEYWORD, datadoghq, Proxy
