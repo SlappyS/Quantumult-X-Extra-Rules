@@ -72,3 +72,13 @@ HOST,pplx-res.cloudinary.com,Perplexity
 HOST-SUFFIX,perplexity.ai,Perplexity
 HOST-SUFFIX,pplx.ai,Perplexity
 HOST-SUFFIX,perplexity.com,Perplexity
+
+# From 如何让你的Claude活得更久 https://bytedance.larkoffice.com/docx/FuvldQLwloApqmxWW7gc6dr2npe
+HOST-SUFFIX,ipinfo.io,Proxy
+HOST-SUFFIX,stripe.network,Proxy
+HOST,challenges.cloudflare.com,Proxy
+HOST-KEYWORD,anthropic,Proxy
+HOST-KEYWORD,claude,Proxy
+HOST-KEYWORD,chatgpt,Proxy
+HOST-KEYWORD,codex,Proxy
+HOST-KEYWORD,sora,Proxy
