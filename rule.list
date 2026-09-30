@@ -19,3 +19,10 @@ Host-SUFFIX, quantumult.app, proxy
 # Google Analytics
 HOST-SUFFIX, app-analytics-services.com, proxy
 HOST-SUFFIX, app-analytics-services-att.com, proxy
+
+# DBS
+HOST-SUFFIX, sin-col.eum-appdynamics.com, proxy
+HOST-SUFFIX, dbs.com, proxy
+HOST-SUFFIX, dbs.com.sg, proxy
+HOST, dbs.tt.omtrdc.net, proxy
+HOST-KEYWORD, dbs, direct
