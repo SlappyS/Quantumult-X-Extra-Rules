@@ -26,3 +26,26 @@ HOST-SUFFIX, dbs.com, proxy
 HOST-SUFFIX, dbs.com.sg, proxy
 HOST, dbs.tt.omtrdc.net, proxy
 HOST-KEYWORD, dbs, direct
+
+# Others
+Host-SUFFIX, central-world.org, proxy
+
+# 似乎是边缘CDN节点
+HOST-SUFFIX, zzcdnx.com, direct
+HOST-SUFFIX, wmzfylgdsz.com, direct
+HOST-SUFFIX, qrstuvwxyzab.com, direct
+HOST-SUFFIX, wasu.tv, direct
+
+# 广告和追踪
+Host-SUFFIX, app-ads-services.com, proxy
+Host-SUFFIX, applovin.com, proxy
+Host-SUFFIX, vungle.com, proxy
+Host-SUFFIX, inmobi.com, proxy
+Host-SUFFIX, appsflyersdk.com, proxy
+Host-SUFFIX, etahub.com, proxy
+
+# 得物
+HOST-SUFFIX, dewu.com, direct
+
+# Adblock
+Host-SUFFIX, eyeo.com, proxy
