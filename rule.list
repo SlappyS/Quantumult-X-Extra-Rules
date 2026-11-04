@@ -24,7 +24,7 @@ HOST-SUFFIX, sin-col.eum-appdynamics.com, proxy
 HOST-SUFFIX, dbs.com, proxy
 HOST-SUFFIX, dbs.com.sg, proxy
 HOST, dbs.tt.omtrdc.net, proxy
-HOST-KEYWORD, dbs, direct
+HOST-KEYWORD, dbs, proxy
 
 # UOB
 HOST-SUFFIX, uob.com.sg, direct
